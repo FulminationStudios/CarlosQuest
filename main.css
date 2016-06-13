@@ -5,7 +5,7 @@ html {
   background-repeat: repeat;
 }
 body {
-  width:1000px;
+  width:1200px;
   height:1000px;
   margin:0;
   margin-right:auto;
@@ -20,7 +20,7 @@ header {
 }
 .RightSide {
   float:left;
-  width:1000px;
+  width:1200px;
   height:100%;
   background-color:orange;
 }

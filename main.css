@@ -1,4 +1,6 @@
 html {
   margin:0;
   background-image: url("PaperBackground.png");
+  background-size: auto;
+  background-repeat: repeat;
 }
